@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# chromedriver.exe
+chromedriver.exe
+
+# setting.json
+setting.json
+
 # C extensions
 *.so
 
